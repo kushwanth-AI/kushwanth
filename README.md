@@ -1,4 +1,4 @@
-Kushwanth/README.md
+kushwanth/README.md
 
 👋 Hi, I'm Kushwanth
 ---
