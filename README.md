@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Generative+AI+Engineer;LLM+Engineer;RAG+Engineer;AI+Agent+Developer;Prompt+Engineer;FastAPI+Backend+Developer" />
 </p>
 
----
 
 ## 🧠 About Me
 
