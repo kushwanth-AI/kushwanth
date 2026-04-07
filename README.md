@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kushwanth Raj
+# 👋 Hi, I'm Kushwanth Yantrapati
 
 🚀 AI Engineer | Generative AI | Machine Learning | Python Developer
 
