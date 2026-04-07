@@ -11,9 +11,6 @@
 ---
 
 ## 🧠 About Me
----
-
-## 🧠 About Me
 
 I’m an AI Engineer with a strong passion for building intelligent systems using Machine Learning, Deep Learning, and Generative AI.
 
