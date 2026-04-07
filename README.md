@@ -1,6 +1,6 @@
 #                   <h1 align="center">👋 Hi, I'm Kushwanth Yantrapati</h1>
 
-                           AI Engineer | Generative AI & AI Agents | Building Intelligent Systems
+                              AI Engineer | Generative AI & AI Agents | Building Intelligent Systems
 
 ---
 
