@@ -113,7 +113,10 @@ I’m an AI Engineer with a strong passion for building intelligent systems usin
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/kushwanth-AI)
 
 ---
+<p align="center">
+  ✨ <i>"Building AI systems that make a real difference in the world"</i> ✨
+</p>
 
-## 💡 Quote
-
-*"Building intelligent AI systems that solve real-world problems."*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
