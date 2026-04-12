@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-I’m an AI Engineer with a strong passion for building intelligent systems using Machine Learning, Deep Learning, and Generative AI.
+I’m an AI Engineer with 3 years of experience in building intelligent AI systems using Machine Learning and Generative AI.
 
 * 🤖 Focused on LLMs, RAG, and AI Agents  
 * 🔗 Building real-world AI applications using FastAPI & LangGraph  
